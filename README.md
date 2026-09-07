@@ -94,9 +94,11 @@ The displayed image and active navigation indicator are then updated based on th
 
 ## 📸 Screenshots
 
-<img width="2072" height="897" alt="Screenshot 2026-09-07 072523" src="https://github.com/user-attachments/assets/8025979f-565f-498d-9d8f-483d72ebe11f" />
-
 <img width="2097" height="857" alt="Screenshot 2026-09-07 072502" src="https://github.com/user-attachments/assets/92bf57e2-7c03-4d84-8263-c4ee7da3a9dd" />
+
+
+
+<img width="2072" height="897" alt="Screenshot 2026-09-07 072523" src="https://github.com/user-attachments/assets/8025979f-565f-498d-9d8f-483d72ebe11f" />
 
 
 ## 🔮 Future Improvements
